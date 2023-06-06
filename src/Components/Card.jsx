@@ -5,11 +5,11 @@ export default function Card(Props) {
     const{id,productImg,category,description,Price}=Props.Props;
     return (
         <Box textAlign={"left"} padding={"10px"} key={{id}}>
-            <Image h={"380px"} src={productImg} />
+            <Image h={"380px"} src={productImg} borderRadius={"10px"} />
             <br />
             <Text maxWidth={"280px"} fontWeight={"500"}>{description}</Text>
             <Text fontWeight={"500"}>Price : ₹ {Price}</Text>
-            <Box margin={"left"} maxWidth={"180px"} fontWeight={"700"} bgColor={"RGBA(0, 0, 0, 0.48)"} color={"white"} textAlign={"center"}>{category}</Box>
+            <Box borderRadius={"5px"} margin={"left"} maxWidth={"180px"} fontWeight={"700"} bgColor={"RGBA(0, 0, 0, 0.48)"} color={"white"} textAlign={"center"}>{category}</Box>
         </Box>
     )
 }

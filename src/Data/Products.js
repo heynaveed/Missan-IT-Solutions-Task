@@ -3,7 +3,7 @@ const Data=[{
     productImg : "https://images.bewakoof.com/t640/the-ryuk-full-sleeve-t-shirt-554015-1667974706-1.jpg",
     category: "DESIGN OF THE DAY",
    description: "Men's White The Ryuk Graphic Printed T-shirt",
-    Price: 349,
+    Price: 799,
   },
   {
     id:2,
@@ -15,7 +15,7 @@ const Data=[{
   {
     id:3,
     productImg : "https://images.bewakoof.com/t640/men-s-purple-wow-oversized-t-shirt-549266-1668083566-1.jpg",
-    category: "OVERSIZED FIT",
+    category: "DESIGN OF THE DAY",
     description: "Men's Lilac WOW Typography Oversized T-shirt",
     Price: 699,
   },
@@ -59,14 +59,14 @@ const Data=[{
     productImg : "https://images.bewakoof.com/t640/men-s-black-good-vibes-typography-oversized-t-shirt-554144-1668067788-1.jpg",
     category: "OVERSIZED FIT",
     description: "Men's Black Good Vibes Typography Oversized T-shirt",
-    Price: 499,
+    Price: 699,
   },
   {
      id:10,
     productImg : "https://images.bewakoof.com/t640/the-ryuk-half-sleeve-t-shirt-554010-1667975037-1.jpg",
     category: "DESIGN OF THE DAY",
     description: "Men's Black The Ryuk Graphic Printed T-shirt",
-    Price: 329,
+    Price: 599,
   },
   {
      id:11,
@@ -78,9 +78,9 @@ const Data=[{
   {
      id:12,
     productImg : "https://images.bewakoof.com/t640/men-s-black-down-town-printe-shorts-516599-1667397850-1.jpg",
-    category: "OVERSIZED FIT",
+    category: "SUPER LOOSE FIT",
     description: "Men's Black Down Town Typography Oversized Shorts",
-    Price: 799,
+    Price: 699,
   },
   {
      id:13,
@@ -92,14 +92,14 @@ const Data=[{
   {
      id:14,
     productImg : "https://images.bewakoof.com/t640/friends-doodle-frl-aop-t-shirt-307153-1655750077-1.jpg",
-    category: "BUY 3 FOR 899",
+    category: "BUY 3 FOR 599",
     description: "Friends Doodle (FRL) AOP T-Shirt",
-    Price: 447,
+    Price: 599,
   },
   {
      id:15,
     productImg : "https://images.bewakoof.com/t640/men-s-black-downtown-baller-typography-oversized-t-shirt-516665-1667912604-1.jpg",
-    category: "OVERSIZED FIT",
+    category: "SUPER LOOSE FIT",
     description: "Men's Black Downtown Baller Typography Oversized T-shirt",
     Price: 799,
 
@@ -121,16 +121,16 @@ const Data=[{
   {
      id:18,
     productImg : "https://images.bewakoof.com/t640/men-s-black-down-town-baller-printed-co-ords-set-516702-1668065614-1.jpg",
-    category: "OVERSIZED FIT",
+    category: "SUPER LOOSE FIT",
     description: "Men's Black Down Town Typography Oversized Co-ord Set",
-    Price: 1399,
+    Price: 899,
   },
   {
      id:19,
     productImg : "https://images.bewakoof.com/t640/men-s-aventurine-green-down-town-baller-printed-co-ords-set-516703-1668075614-1.jpg",
     category: "OVERSIZED FIT",
     description: "Men's Green Down TownTypography Oversized Co-ord Set",
-    Price: 1399, 
+    Price: 699, 
   },
   {
      id:20,
